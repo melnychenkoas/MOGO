@@ -445,7 +445,7 @@ nav img{
 
 }
 .slider_container {
-    width: 300%;
+    width: 400%;
     display: flex;
     
     transition: .5s;
@@ -453,7 +453,7 @@ nav img{
 }
 .slider_element{
     max-width: 1200px;
-    
+    min-width: 320px;
     width: 1200px;
     display: flex;
     transition: opacity 1s ease-in;
