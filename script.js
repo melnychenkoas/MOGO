@@ -70,4 +70,3 @@ const setAccordeonData = (accordeonData) => {
 }
 setAccordeonData(accordeonData);
 
-// success();
